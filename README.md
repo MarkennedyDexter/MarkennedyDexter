@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/markennedy-araujo-sousa-672a69213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-- 🔭 I’m currently working on ...
+- 🔭 Atualmente trabalho como Assistente de Compras / Assistente Administrativo.
 - 🌱 Estudante do 4ª Semestre do Cusros: Técnico em Informática, programação e tecnologia na instituição: ETB - Escola Técnica de Brasília
 - 😄 Pronouns: Ele / Dele
 
