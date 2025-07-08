@@ -29,10 +29,10 @@
 
 #
 
-<picture>
-	<soure media="(prefers-color-scheme: dark)" srcset="https://raw.githubsercontent.com/markennedydexter/markennedydexter/output/github-contribution-grid-snak-dark.svg">
-	<soure media="(prefers-color-scheme: light)" srcset="https://raw.githubsercontent.com/markennedydexter/markennedydexter/output/github-contribution-grid-snak-svg">
-	<img alt="github contribution grid snake animation" src=""https://raw.githubsercontent.com/markennedydexter/markennedydexter/github-contribution-grid-snak-svg">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
 
