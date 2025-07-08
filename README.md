@@ -7,7 +7,6 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-
 ## Olá! Me chamo Markennedy Araújo Sousa, estudante do curso Técnico em Informática!
 
 <h3 align="left">My Stack ~</h3>
