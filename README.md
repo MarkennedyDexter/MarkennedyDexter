@@ -7,7 +7,8 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-## Olá! Me chamo Markennedy Araújo Sousa, estudante do curso Técnico em Informática!
+# 👋 Olá! 
+# Me chamo Markennedy Araújo Sousa, estudante do curso Técnico em Informática!
 
 - 🔭 Atualmente trabalho como Assistente de Compras / Assistente Administrativo.
 - 🌱 Estudante do 4ª Semestre do Cusros: Técnico em Informática, programação e tecnologia na instituição: ETB - Escola Técnica de Brasília
