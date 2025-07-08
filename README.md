@@ -28,4 +28,12 @@
 <div>
 
 #
+
+<picture>
+	<soure media="(prefers-color-scheme: dark)" srcset="https://raw.githubsercontent.com/markennedydexter/markennedydexter/output/github-contribution-grid-snak-dark.svg">
+	<soure media="(prefers-color-scheme: light)" srcset="https://raw.githubsercontent.com/markennedydexter/markennedydexter/output/github-contribution-grid-snak-svg">
+	<img alt="github contribution grid snake animation" src=""https://raw.githubsercontent.com/markennedydexter/markennedydexter/github-contribution-grid-snak-svg">
+</picture>
+
+#
 ![Snake animation](https://github.com/markennedydexter/markennedydexter/blob/output/github-contribution-grid-snake.svg)
