@@ -35,5 +35,4 @@
 	<img alt="github contribution grid snake animation" src=""https://raw.githubsercontent.com/markennedydexter/markennedydexter/github-contribution-grid-snak-svg">
 </picture>
 
-#
-![Snake animation](https://github.com/markennedydexter/markennedydexter/blob/output/github-contribution-grid-snake.svg)
+
