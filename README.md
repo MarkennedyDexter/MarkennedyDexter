@@ -8,10 +8,11 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 # 👋 Olá! 
-# Sou Markennedy Araújo Sousa, estudante do curso Técnico em Informática!
+# Sou Markennedy Araújo Sousa, estudante do curso Técnico em Informática e estudante Tecnólogo em Redes de Computadores!
 
 - 🔭 Atualmente trabalho como Assistente de Compras / Assistente Administrativo.
-- 🌱 Estudante do 4ª Semestre do Cusros: Técnico em Informática, programação e tecnologia na instituição: ETB - Escola Técnica de Brasília
+- 🌱 Estudante do 4º Semestre do Cusros: Técnico em Informática, programação e tecnologia - Instituição: ETB - Escola Técnica de Brasília - Areal - Águas Claras - Brasilia -DF
+- 🌱 Estudante do 1º Semestre do Curso Tecnólogo: Redes de Computadores (Tecnologia em Redes de Computadores) - Instituição: UNIASSELVI - Valparaíso de Goiás - GO
 - 😄 Pronouns: Ele / Dele
 
  ## Contacts:
