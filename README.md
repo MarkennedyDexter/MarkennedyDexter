@@ -12,7 +12,7 @@
 
 - 🔭 Atualmente trabalho como Auxiliar de Arquivos I / Assistente Administrativo em geral.
 - 🌱 Formado no Curso: Técnico em Informática, programação e tecnologia - Instituição: ETB - Escola Técnica de Brasília - Areal - Águas Claras - Brasilia -DF
-- 🌱 Estudante do 2º Semestre do Curso Tecnólogo: Redes de Computadores (Tecnologia em Redes de Computadores) - Instituição: UNIASSELVI - Valparaíso de Goiás - GO
+- 🌱 Estudante do 3º Semestre do Curso Tecnólogo: Redes de Computadores (Tecnologia em Redes de Computadores) - Instituição: UNIASSELVI - Valparaíso de Goiás - GO
 - 😄 Pronouns: Ele / Dele
 
  ## Contacts:
